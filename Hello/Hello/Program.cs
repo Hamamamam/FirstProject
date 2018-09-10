@@ -12,6 +12,8 @@ namespace Hello
         {
             Console.WriteLine("This is my first GitHub code!");
             Console.ReadLine();
+            Console.WriteLine("This line is just a git change");
+            Console.ReadLine();
         }
     }
 }
